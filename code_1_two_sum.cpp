@@ -1,5 +1,4 @@
 /**
- * @file code_1_two_num.cpp
  * @brief LeetCode Problem 1: Two Sum - Find two numbers that add up to a target.
  * @author ZhaoRongBo
  * @date 2025-06-25
@@ -10,7 +9,6 @@
 using namespace std;
 
 /**
- * @class TwoSum
  * @brief A class to solve the classic Two Sum problem using brute-force approach.
  */
 class TwoSum {
@@ -31,10 +29,6 @@ public:
     }
 };
 
-/**
- * @brief Main function to test the TwoSum class.
- * @return 0 if the program executes successfully.
- */
 int main() {
     const vector nums = {2, 5, 5, 11};
     constexpr int target = 10;
