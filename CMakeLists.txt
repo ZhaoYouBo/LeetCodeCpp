@@ -3,4 +3,4 @@ project(LeetCodeCpp)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(LeetCodeCpp code_1_two_num.cpp)
+add_executable(LeetCodeCpp code_1_two_sum.cpp)
